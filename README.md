@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **Live App:** https://YOUR-STREAMLIT-LINK.streamlit.app
+🔗 **Live App:** https://rent-ai-labeeb.streamlit.app
 
 🔗 **GitHub Repository:** https://github.com/labeebzaidi/RentAI
 
